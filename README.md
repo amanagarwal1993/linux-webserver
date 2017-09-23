@@ -9,7 +9,7 @@
 - Passphrase: **123456**
 
 ##### URL of hosted web application
-[catalog.nextaltitude.com](catalog.nextaltitude.com)
+[catalog.nextaltitude.com](http://catalog.nextaltitude.com)
 
 ##### Python packages required to deploy the Flask application
 - Flask
