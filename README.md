@@ -1,5 +1,7 @@
 # Linux Server Details
 
+**Note**: This VM was configured for an academic (okay, academic-*ish*) project, meant to be open for all who came across my repo to play around with. But this VM has long been destroyed (AWS costs money!) and the private key mentioned below was exclusively created for this VM (never give your private key to anyone).
+
 ##### What you'll need to log in using *ssh*
 
 - IP: **52.39.251.44**
